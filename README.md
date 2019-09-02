@@ -1,7 +1,7 @@
-TypeScript React "material-ui" Demo
-===================================
+TypeScript React "material-ui" Theme Demo
+=========================================
 
-如何使用TypeScript来写"material-ui"
+如何定义及切换theme
 
 ```
 npm install
@@ -9,6 +9,4 @@ npm run demo
 ```
 
 It will open <http://localhost:8080/> automatically.
-
-![demo](./images/demo.jpg)
 
